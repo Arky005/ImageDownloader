@@ -1,0 +1,7 @@
+C:\Users\otaviomorais\source\repos\ImageDownloader\bin\Debug\ImageDownloader.exe.config
+C:\Users\otaviomorais\source\repos\ImageDownloader\bin\Debug\ImageDownloader.exe
+C:\Users\otaviomorais\source\repos\ImageDownloader\bin\Debug\ImageDownloader.pdb
+C:\Users\otaviomorais\source\repos\ImageDownloader\obj\Debug\ImageDownloader.csprojAssemblyReference.cache
+C:\Users\otaviomorais\source\repos\ImageDownloader\obj\Debug\ImageDownloader.csproj.CoreCompileInputs.cache
+C:\Users\otaviomorais\source\repos\ImageDownloader\obj\Debug\ImageDownloader.exe
+C:\Users\otaviomorais\source\repos\ImageDownloader\obj\Debug\ImageDownloader.pdb
